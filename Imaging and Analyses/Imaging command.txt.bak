@@ -1,0 +1,1 @@
+raspistill -vf -hf -o %d.jpg -md 3 -dec -q 100 -ex spotlight -awb auto -ss 4000 -ag 1 -dg 1 -r -v -k
