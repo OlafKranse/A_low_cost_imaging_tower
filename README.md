@@ -35,7 +35,9 @@ This repository contains all the 3D files to make and construct the housing of t
 1) Image tower 3D files:
 
 	a: If you own an ultimaker S3 with an AA 0.4 core, PLA and a BB core with PVA, you can use the presliced files: A_low_cost_imaging_tower/Ultimaker S3 CURA sliced/
+	
 	b: If you own another 3D printer, or want to use a printing service, you can use the files in A_low_cost_imaging_tower/STL files/ to generate sliced files for printing. 
+	
 	Note: the slicing for our files is done in Ultimakers CURA software, which also works for some non Ultimaker printers.
 
 2) Assembly of the tower. 
