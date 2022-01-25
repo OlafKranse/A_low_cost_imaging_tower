@@ -43,4 +43,6 @@ This repository contains all the 3D files to make and construct the housing of t
     -   Raspberry PI via a 30 cm Ribbon Cable (THE PI HUT)
     -   60 LED STRIP LIGHT 6400K SET IP65 12V (V-TAC) 
     
+    Assembly instructions for the imaging tower can be found in A_low_cost_imaging_tower/Diagram/Assembly.svg and A_low_cost_imaging_tower/Diagram/compact diagram.svg
+    
   
