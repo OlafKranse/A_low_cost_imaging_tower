@@ -1,4 +1,4 @@
-### Adjusted script from: 
+### Adjusted script from: https://github.com/chia56028/Color-Transfer-between-Images // chia56028 // based on: Color Transferbetween Images, Erik Reinhard, Michael Ashikhmin, Bruce Gooch,and Peter Shirley University of Utah
 
 import numpy as np
 import cv2
