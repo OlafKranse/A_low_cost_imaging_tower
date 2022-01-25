@@ -47,5 +47,13 @@ This repository contains all the 3D files to make and construct the housing of t
 		-   Raspberry PI via a 30 cm Ribbon Cable (THE PI HUT)
 		-   60 LED STRIP LIGHT 6400K SET IP65 12V (V-TAC) 
 	- Assembly instructions for the imaging tower can be found in A_low_cost_imaging_tower/Diagram/Assembly.svg and A_low_cost_imaging_tower/Diagram/compact diagram.svg
-    
-  
+
+3. Taking the images.
+	- Images are taken through the command line using the command metioned in: A_low_cost_imaging_tower/Imaging and Analyses/Imaging command.txt
+
+4. Analysing images for infection.
+	- Depending if coloured agar or standard agar is used the script used for analysing is different. The script is run in imageJ using the interactive interpreter.
+		- For coloured agar use: A_low_cost_imaging_tower/Imaging and Analyses/automated_cyst_macro_coloured_agar.ijm
+		- For normal agar use: A_low_cost_imaging_tower/Imaging and Analyses/automated_cyst_macro_uncoloured_agar.ijm
+5. Extracting total root surface area. 
+	- The root surface are of images can be extracted in imageJ using: A_low_cost_imaging_tower/Imaging and Analyses/automated_root_surface_area.ijm
