@@ -38,7 +38,7 @@ This repository contains all the 3D files to make and construct the housing of t
 	
 	- b: If you own another 3D printer, or want to use a printing service, you can use the files in A_low_cost_imaging_tower/STL files/ to generate sliced files for printing. 
 	
-	- Note: the slicing for our files is done in Ultimakers CURA software, which also works for some non Ultimaker printers.
+	Note: the slicing for our files is done in Ultimakers CURA software, which also works for some non Ultimaker printers.
 
 2. Assembly of the tower. 
 	- Items needed:
