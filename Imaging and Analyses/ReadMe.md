@@ -49,11 +49,16 @@ Example of Macro line:
 	rename(a);
 	// Colour Thresholding-------------
 	
-
-
-
-
-
 ### Example
+1) To automate the analyses we first need to normalise the images colour between all images. Please find further instructions on: A_low_cost_imaging_tower/Imaging and Analyses/Normalise colour/ in this git. 
+
+2) Once normalised the treshold needs to be adjusted using the instructions above. 
+
+3) To automatically count the nematodes the script in its entirety needs to be copied into t einteractive interpreter in imageJ. The script will attempt to extract features from the image that match both the common size, shape and color of the nematode. The script does struggle with edges of plates, the user is therefore asked to input an area of interest, only selecting the inner part of the plate where nematodes can be observed.
+ 
+
+
+
+
 
 	
