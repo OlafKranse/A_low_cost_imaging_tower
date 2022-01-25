@@ -49,7 +49,7 @@ Example of Macro line:
 	rename(a);
 	// Colour Thresholding-------------
 	
-### Example
+### Workflow
 1) To automate the analyses we first need to normalise the images colour between all images. Please find further instructions on: A_low_cost_imaging_tower/Imaging and Analyses/Normalise colour/ in this git. 
 
 2) Once normalised the treshold needs to be adjusted using the instructions above. 
